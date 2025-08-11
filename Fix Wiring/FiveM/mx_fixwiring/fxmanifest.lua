@@ -21,7 +21,7 @@ files {
 	'html/index.html',
 	'html/css/*.css',
 	'html/js/*.js',
-	'html/img/*.png',
 	'html/sound/*.ogg',
 }
+
 
